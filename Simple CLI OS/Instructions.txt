@@ -1,0 +1,22 @@
+Run "PBB.py" to start a complete startup or run "main.py" to start directly.
+
+Terminal files are in the folder "Applications\terminal"
+
+Commands for main file:
+
+-----------------------------------------------------------
+1: exit     | Turns off the VOS
+-----------------------------------------------------------
+2: terminal | Runs the terminal
+-----------------------------------------------------------
+3: bios     | Starts up in Phantom BIOS(My version of bios)
+-----------------------------------------------------------
+
+
+
+Commands for terminal:
+
+---------------------------------------------------------
+1: mkfile | Prompts for file name and file text and makes
+				a file in current directory
+---------------------------------------------------------
